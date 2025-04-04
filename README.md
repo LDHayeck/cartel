@@ -1,3 +1,4 @@
+# THIS IS A COPIED VERSION OF THE ORIGINAL - FOR PORTFOLIO PURPOSES
 # Slack Bot whith NodeJS & Slack API & Mongoose
 
 Cartel Bot dedicated to Slack
